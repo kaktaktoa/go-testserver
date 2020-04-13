@@ -1,0 +1,8 @@
+db_name = gocontacts
+db_pass = postgres
+db_user = postgres
+db_type = postgres
+db_host = localhost
+db_port = 5432
+port = 8000
+token_password = thisIsTheJwtSecretPassword
